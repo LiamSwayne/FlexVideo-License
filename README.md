@@ -1,8 +1,8 @@
 ## FlexVideo License
 A license for video of any form, designed to enhance content protection while preserving viewer control.
 
-## The license (rough draft)
-
+## The license (rough draft, will be line-length restricted upon official release)
+```
 In this document, the term "video" refers to any visual recording or broadcast. The term "this video" refers to video to which this license has been applied.
 
 Express permission is granted to all to download, copy, and modify this video for personal use.
@@ -20,3 +20,4 @@ Protections applying to all forms of use:
       1. If the platform where the derivative video is posted does not allow descriptions to be added to videos, the link must be made the primary focus of the video in a readable typeface for at least 1 second.
 
 These guidelines may be bypassed if and only if given express permission by this video's rights-holder. If these guidelines are bypassed without express permission from this video's rights-holder, the rights-holder may take down or claim all revenue of a violating reupload or derivative video.
+```
