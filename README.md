@@ -1,6 +1,8 @@
 ## FlexVideo License
 A license for video of any form, designed to enhance content protection while preserving viewer control.
 
+If you know of any way to improve this license, please submit a pull request! Once the license is released it cannot be modified!
+
 ## The license (rough draft, will be line-length restricted upon official release)
 ```
 In this document, the term "video" refers to any visual recording or broadcast. The term "this video" refers to video to which this license has been applied.
