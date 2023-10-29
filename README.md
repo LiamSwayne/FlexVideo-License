@@ -3,6 +3,12 @@ A license for video of any form, designed to enhance content protection while pr
 
 If you know of any way to improve this license, please submit a pull request! Once the license is released it cannot be modified!
 
+Goals:
+- Give viewers as much control over their viewing experience as possible.
+- Protect creators from having their content lazy derivative content and reactions by mandating sufficient, precisely defined tranformation.
+- Protect creators from reuploads to other platforms unless given permission.
+- Remove potential loopholes.
+
 ## The license (rough draft, will be line-length restricted upon official release)
 ```
 In this document, the term "video" refers to any visual recording or broadcast. The term "this video" refers to video to which this license has been applied.
