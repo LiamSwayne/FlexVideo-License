@@ -4,7 +4,7 @@ A license for video of any form, designed to enhance content protection while pr
 If you know of any way to improve this license, please submit a pull request! Once the license is released it cannot be modified!
 
 Goals:
-- Give viewers as much control over their viewing experience as possible.
+- Give viewers as much control over their viewing experience as possible. On some platforms it breaks TOS to download videos unless given express permission. This license gives the express permission needed to avoid breaking TOS.
 - Protect creators from having their content lazy derivative content and reactions by mandating sufficient, precisely defined tranformation.
 - Protect creators from reuploads to other platforms unless given permission.
 - Remove potential loopholes.
