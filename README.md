@@ -13,7 +13,7 @@ Notes:
 - This should not read like a legal document. It should read like a document written with precision and loopholes in mind. The license's primary audience is social media users. It must be understandable to the masses.
 - On some platforms it breaks the terms of service (TOS) to download videos unless given express permission. This license gives the express permission needed to avoid breaking the TOS.
 
-Put your video under this license by copying the phrase below to the videos' description of your video or showing the below text in the video. 
+Put your video under this license by copying the phrase below to the videos' description of your video or prominently displaying the below text in the video. 
 ```
 This video is subject to the FlexVideo License, which can be found at [URL].
 ```
