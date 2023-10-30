@@ -4,18 +4,24 @@ A license for video of any form, designed to enhance content protection while pr
 If you know of any way to improve this license, please submit a pull request! Once the license is released it cannot be modified!
 
 Goals:
-- Give viewers as much control over their viewing experience as possible. On some platforms it breaks TOS to download videos unless given express permission. This license gives the express permission needed to avoid breaking TOS.
+- Give viewers as much control over their viewing experience as possible.
 - Protect creators from having their content lazy derivative content and reactions by mandating sufficient, precisely defined tranformation.
 - Protect creators from reuploads to other platforms unless given permission.
 - Remove potential loopholes.
 
+Notes:
+- This should not read like a legal document. It should read like a document written with precision and loopholes in mind.
+- On some platforms it breaks TOS to download videos unless given express permission. This license gives the express permission needed to avoid breaking TOS.
+
 ## The license (rough draft, will be line-length restricted upon official release)
 ```
-In this document, the term "video" refers to any visual recording or broadcast. The term "this video" refers to video to which this license has been applied.
+In this document, the term "video" refers to any visual recording or broadcast.
+The term "this video" refers to video to which this license has been applied.
+The term "archival platform" refers to sites whose primary objective is to archive content. Socia media platforms do not meet this definition.
 
 Express permission is granted to all to download, copy, and modify this video for personal use.
 
-Protections applying to all forms of use:
+Restrictions associated with distributing this video:
 1. This video can be reuploaded to its original platform and others if and only if the original video is no longer accessible. Reuploads are permitted on archival platforms at any time.
    1. This restriction only applies when the cumulative duration of distinct segments, excluding any overlap, used in the reupload exceeds 15 seconds.
 2. Derivative videos (including but not limited to reaction and compilation content) must adhere to these restrictions:
