@@ -18,7 +18,7 @@ Put your video under this license by copying the phrase below to the videos' des
 This video is subject to the FlexVideo License, which can be found at [URL].
 ```
 
-## The license (rough draft, will be line-length restricted upon official release)
+## The license (rough draft, will have line-length restricted upon official release)
 ```
 In this document, the term "video" refers to any visual recording or broadcast.
 The term "this video" refers to video to which this license has been applied.
