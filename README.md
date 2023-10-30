@@ -18,10 +18,10 @@ Put your video under this license by copying the phrase below to the videos' des
 This video is subject to the FlexVideo License, which can be found at [URL].
 ```
 
-## The license (rough draft, will have line-length restricted upon official release)
+## The license (do not copy this text, use the [permalink]())
 ```
 In this document, the term "video" refers to any visual recording or broadcast.
-The term "this video" refers to video to which this license has been applied.
+The term "this video" refers to the video to which this license has been applied.
 The term "archival platform" refers to sites whose primary objective is to archive content. Socia media platforms do not meet this definition.
 
 Express permission is granted to all to download, copy, and modify this video for personal use.
