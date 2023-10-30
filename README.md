@@ -11,7 +11,7 @@ Goals:
 
 Notes:
 - This should not read like a legal document. It should read like a document written with precision and loopholes in mind.
-- On some platforms it breaks TOS to download videos unless given express permission. This license gives the express permission needed to avoid breaking TOS.
+- On some platforms it breaks the terms of service (TOS) to download videos unless given express permission. This license gives the express permission needed to avoid breaking TOS.
 
 ## The license (rough draft, will be line-length restricted upon official release)
 ```
