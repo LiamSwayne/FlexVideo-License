@@ -30,7 +30,7 @@ The term "archival platform" refers to sites whose primary objective is to archi
 Express permission is granted to all to download, copy, and modify this video for personal use.
 
 Restrictions associated with distributing this video, excluding distribution within small, private groups:
-1. This video may be reuploaded to archival platforms at any time. On other platforms, it can only be reuploaded if it's no longer available on its initial platform.
+1. This video may be reuploaded to archival platforms at any time. On other platforms, this video can only be reuploaded if it's no longer available on its initial platform.
    1. This restriction only applies when the cumulative duration of distinct segments, excluding any overlap, used in the reupload exceeds 15 seconds.
 2. Derivative videos (including but not limited to reaction and compilation content) must adhere to these restrictions:
    1. If the cumulative duration of distinct segments from this video, excluding any overlap, that are played in a derivative video surpasses 15 seconds, the time allocated to discussion of this video in the derivative video must be greater than the time dedicated to playing segments from this video. This protection is still upheld if this video is not the primary subject of the derivative video.
